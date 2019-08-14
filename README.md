@@ -1,8 +1,8 @@
 # plate-generator
-A Matlab Licence Generator and a Convolutional Neural Network (pre trained Tensorflow).
+A Matlab licence plate generator script.
 
 ![Plate](../master/PlateGeneration/plates/slam447.png)
-- a generated Licences Plate
+- a generated licences plate
 
 ![Mask](../master/PlateGeneration/generated_combination/back_mask_slam447.jpg)
 - a mask of background and plate
